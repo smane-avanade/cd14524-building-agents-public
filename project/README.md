@@ -37,17 +37,34 @@ Explain what each test does and why
 ```
 Examples here
 ```
+
 ## Project Instructions
 
 This section should contain all the student deliverables for this project.
 
 ## Built With
 
-* [Item1](www.item1.com) - Description of item
-* [Item2](www.item2.com) - Description of item
-* [Item3](www.item3.com) - Description of item
+- [Item1](www.item1.com) - Description of item
+- [Item2](www.item2.com) - Description of item
+- [Item3](www.item3.com) - Description of item
 
 Include all items used to build project.
 
 ## License
+
 [License](../LICENSE.md)
+
+# Install Dependencies
+
+From repo root, activate python venv
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+install dependencies
+
+```bash
+pip install -r requirements.txt
+```
