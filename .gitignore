@@ -1,2 +1,5 @@
 .env
 chromadb
+__pycache__/
+*.py[cod]
+*$py.class
