@@ -2,3 +2,6 @@ chromadb
 dotenv
 OpenAI
 python-dotenv
+tavily-python
+pdfplumber
+typing
